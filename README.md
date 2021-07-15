@@ -2,8 +2,10 @@
 
 ## concept
 this code follow two step
-1.convert markdown to html( use markdown)
-2.conert html to markdown( use xhtml2pdf)
+
+
+* 1.convert markdown to html( use markdown)
+* 2.conert html to markdown( use xhtml2pdf)
 
 ## for quick install
 ```
